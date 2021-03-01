@@ -1,4 +1,10 @@
-# Easy HtmlQ
+# Easy HtmlQ (Legacy Version)
+
+
+## This is a legacy version of Easy HTMLQ. For new projects, use the [current version](https://github.com/shawnbanasick/easy-htmlq) which has bug fixes and new functionality.
+
+
+## Easy HtmlQ
 A minor change to HtmlQ to allow it to work with Firebase. For attribution, please cite the original HtmlQ software and authors (see HtmlQ information below).
 
 
